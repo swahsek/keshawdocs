@@ -5,4 +5,4 @@ structure:
   summary: SUMMARY.md
 
 Redirects:
-  test-topic-1: test-topic-2.md
+  sumo: test-topic-2.md
